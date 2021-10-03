@@ -11,5 +11,6 @@
 - Create the venv folder
 - inside the venv folder: pip install virtualenv and then, next step <br>
 - pip install flask Flask-PyMongo flask-cors <br>
-- Secure to be running in the background the mongodb process and the virtual enviroment is running.
+- Secure to be running in the background the mongodb process and the virtual enviroment is running. <br>
+- python3 app.py <br>
 - enjoy.
